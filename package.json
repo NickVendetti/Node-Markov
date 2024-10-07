@@ -1,0 +1,25 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Markov assignment",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NickVendetti/Node-Markov.git"
+  },
+  "author": "Nick Vendetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickVendetti/Node-Markov/issues"
+  },
+  "homepage": "https://github.com/NickVendetti/Node-Markov#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs": "^0.0.1-security",
+    "markov": "^0.0.7",
+    "process": "^0.11.10"
+  }
+}
